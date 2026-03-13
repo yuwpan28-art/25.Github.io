@@ -1,0 +1,82 @@
+#joketitle{
+	font-size: 30px;
+	color: #C22100;
+	font-family: 'impact';
+}
+
+#joketext{
+	color: #C22100;
+	cursor: pointer;
+}
+
+body{
+	background-color:blue ;
+}
+
+#punchline1{
+  opacity: 0;
+  font-size: 30px;
+  cursor: default;
+
+
+
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+#punchline2{
+opacity: 0;
+  font-size: 30px;
+  cursor: default;
+
+
+
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+#punchline3{
+opacity: 0;
+  font-size: 30px;
+  cursor: default;
+
+
+
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+  #punchline4{
+opacity: 0;
+  font-size: 30px;
+  cursor: default;
+
+
+
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+ #punchline5{
+opacity: 0;
+  font-size: 30px;
+  cursor: default;
+
+
+
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+}
+  transition: all 500ms ease;
+}
